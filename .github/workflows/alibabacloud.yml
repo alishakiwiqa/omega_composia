@@ -10,7 +10,7 @@
 # 2. Create an ACK cluster to run your containerized application.
 #    You can use ACK Pro cluster for more security and better performance.
 #    For instructions see https://www.alibabacloud.com/help/doc-detail/95108.htm
-#
+# Test data
 # 3. Store your AccessKey pair in GitHub Actions secrets named `ACCESS_KEY_ID` and `ACCESS_KEY_SECRET`.
 #    For instructions on setting up secrets see: https://developer.github.com/actions/managing-workflows/storing-secrets/
 #
